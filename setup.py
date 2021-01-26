@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="base_converter",
+    name="baseconverter",
     packages=find_packages(include=["lib"]),
     version="0.1.0",
     author="Ruboon Dej-Udom",
